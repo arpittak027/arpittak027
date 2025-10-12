@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **takarpit2025@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1quObmduNMWNMeG6BupaQJ2RNTJNe3eqqJqC46-5s7Ok/edit?usp=sharing](https://docs.google.com/document/d/1quObmduNMWNMeG6BupaQJ2RNTJNe3eqqJqC46-5s7Ok/edit?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/arpittak.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpittak.dev" height="30" width="40" /></a>
