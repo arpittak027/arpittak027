@@ -33,8 +33,4 @@ const arpit = {
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,python,git,github,vscode" />
 </p>
 
-## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpittak027&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
