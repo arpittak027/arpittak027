@@ -15,7 +15,7 @@
 
 ---
 
-## 👨‍💻 Who Am I?
+## Who Am I?
 
 ```javascript
 const arpit = {
@@ -27,7 +27,7 @@ const arpit = {
 };
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,python,git,github,vscode" />
