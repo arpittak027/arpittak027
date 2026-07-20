@@ -10,13 +10,13 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode" />
 </p>
 
-### About Me
-- CSE Graduate
-- Building web apps
-- Learning MERN and Next.js
-- Open to developer roles
+## 👨‍💻 Who Am I?
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpittak027&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+```javascript
+const arpit = {
+  role: "Full Stack Developer",
+  education: "B.E. Computer Science",
+  learning: ["MERN", "Next.js", "System Design"],
+  interests: ["Web Development", "AI", "Open Source"],
+  status: "Open to Opportunities"
+};
