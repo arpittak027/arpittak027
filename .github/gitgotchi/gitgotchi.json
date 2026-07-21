@@ -1,0 +1,11 @@
+{
+  "petName": "Codezilla",
+  "hp": 100,
+  "maxHp": 100,
+  "xp": 10,
+  "mood": "excited",
+  "moodScore": 5,
+  "level": 1,
+  "lastFed": "2026-07-21 16:39:34",
+  "streak": 2
+}
