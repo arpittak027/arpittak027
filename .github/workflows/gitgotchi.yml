@@ -1,0 +1,32 @@
+name: GitGotchi Update
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every night at midnight UTC
+  workflow_dispatch: # Allows manual run
+
+permissions:
+  contents: write
+
+jobs:
+  feed-pet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Update GitGotchi
+        uses: night-slayer18/gitgotchi@v1
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+          pet_name: 'Codezilla'
+          pet_type: 'dragon' # Options: dragon, cat, ghost
+          theme: 'dracula'   # Options: dark, light, ocean, dracula
+          
+      - name: Commit & Push
+        run: |
+            git config user.name github-actions[bot]
+            git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+            if [[ -n $(git status --porcelain) ]]; then
+              git add README.md .github/gitgotchi
+              git commit -m "🍱 specific: Feed GitGotchi"
+              git push
+            fi
