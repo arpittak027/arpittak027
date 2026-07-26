@@ -91,7 +91,7 @@
              <!-- Mood Badge -->
              <rect x="0" y="0" width="120" height="32" rx="16" fill="rgba(0,0,0,0.2)" stroke="rgba(189, 147, 249, 0.3)" stroke-width="1"/>
              <text x="60" y="21" text-anchor="middle" class="text-base value" fill="#f8f8f2">
-               😊 HAPPY
+               😐 NEUTRAL
              </text>
              
              <!-- Streak Badge -->
@@ -107,11 +107,11 @@
            <g transform="translate(0, 130)">
              <!-- HP -->
              <g>
-               <text x="0" y="0" class="text-base label">Health 100%</text>
+               <text x="0" y="0" class="text-base label">Health 90%</text>
                <rect x="0" y="10" width="220" height="8" rx="4" fill="rgba(255,255,255,0.1)" />
-               <rect x="0" y="10" width="220" height="8" rx="4" fill="url(#hpLog)" class="bar-anim" />
+               <rect x="0" y="10" width="198" height="8" rx="4" fill="url(#hpLog)" class="bar-anim" />
                <!-- Shine/Glow on Bar -->
-               <rect x="0" y="10" width="220" height="8" rx="4" fill="white" opacity="0.1" />
+               <rect x="0" y="10" width="198" height="8" rx="4" fill="white" opacity="0.1" />
              </g>
              
              <!-- XP -->
@@ -124,7 +124,7 @@
            </g>
            
            <!-- Footer -->
-           <text x="0" y="260" class="text-base subtitle" font-size="12">Last fed: 7/25/2026</text>
+           <text x="0" y="260" class="text-base subtitle" font-size="12">Last fed: 7/26/2026</text>
         </g>
 
         <!-- RIGHT SIDE: Pet Spotlight -->
