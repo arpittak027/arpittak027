@@ -107,24 +107,24 @@
            <g transform="translate(0, 130)">
              <!-- HP -->
              <g>
-               <text x="0" y="0" class="text-base label">Health 20%</text>
+               <text x="0" y="0" class="text-base label">Health 100%</text>
                <rect x="0" y="10" width="220" height="8" rx="4" fill="rgba(255,255,255,0.1)" />
-               <rect x="0" y="10" width="44" height="8" rx="4" fill="url(#hpLog)" class="bar-anim" />
+               <rect x="0" y="10" width="220" height="8" rx="4" fill="url(#hpLog)" class="bar-anim" />
                <!-- Shine/Glow on Bar -->
-               <rect x="0" y="10" width="44" height="8" rx="4" fill="white" opacity="0.1" />
+               <rect x="0" y="10" width="220" height="8" rx="4" fill="white" opacity="0.1" />
              </g>
              
              <!-- XP -->
              <g transform="translate(0, 45)">
-               <text x="0" y="0" class="text-base label">XP 50 / 100</text>
+               <text x="0" y="0" class="text-base label">XP 75 / 100</text>
                <rect x="0" y="10" width="220" height="8" rx="4" fill="rgba(255,255,255,0.1)" />
-               <rect x="0" y="10" width="110" height="8" rx="4" fill="url(#xpLog)" class="bar-anim" />
-               <rect x="0" y="10" width="110" height="8" rx="4" fill="white" opacity="0.1" />
+               <rect x="0" y="10" width="165" height="8" rx="4" fill="url(#xpLog)" class="bar-anim" />
+               <rect x="0" y="10" width="165" height="8" rx="4" fill="white" opacity="0.1" />
              </g>
            </g>
            
            <!-- Footer -->
-           <text x="0" y="260" class="text-base subtitle" font-size="12">Last fed: 8/7/2026</text>
+           <text x="0" y="260" class="text-base subtitle" font-size="12">Last fed: 8/8/2026</text>
         </g>
 
         <!-- RIGHT SIDE: Pet Spotlight -->
