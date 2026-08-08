@@ -1,3 +1,4 @@
+<img width="1672" height="941" alt="coding_pixel_art" src="https://github.com/user-attachments/assets/3fc285f5-62c0-49d7-89c4-1559d0ef7484" />
 <h1 align="center">Hi 👋, I'm Arpit Tak</h1>
 
 <p align="center">
