@@ -1,8 +1,5 @@
 
 
-https://github.com/user-attachments/assets/d57e91e1-49d6-4b83-97e8-ac39ae7f098d
-
-
 <h1 align="center">Hi 👋, I'm Arpit Tak</h1>
 
 <p align="center">
