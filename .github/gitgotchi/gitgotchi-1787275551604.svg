@@ -107,11 +107,11 @@
            <g transform="translate(0, 130)">
              <!-- HP -->
              <g>
-               <text x="0" y="0" class="text-base label">Health 50%</text>
+               <text x="0" y="0" class="text-base label">Health 40%</text>
                <rect x="0" y="10" width="220" height="8" rx="4" fill="rgba(255,255,255,0.1)" />
-               <rect x="0" y="10" width="110" height="8" rx="4" fill="url(#hpLog)" class="bar-anim" />
+               <rect x="0" y="10" width="88" height="8" rx="4" fill="url(#hpLog)" class="bar-anim" />
                <!-- Shine/Glow on Bar -->
-               <rect x="0" y="10" width="110" height="8" rx="4" fill="white" opacity="0.1" />
+               <rect x="0" y="10" width="88" height="8" rx="4" fill="white" opacity="0.1" />
              </g>
              
              <!-- XP -->
@@ -124,7 +124,7 @@
            </g>
            
            <!-- Footer -->
-           <text x="0" y="260" class="text-base subtitle" font-size="12">Last fed: 8/20/2026</text>
+           <text x="0" y="260" class="text-base subtitle" font-size="12">Last fed: 8/21/2026</text>
         </g>
 
         <!-- RIGHT SIDE: Pet Spotlight -->
