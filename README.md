@@ -21,11 +21,9 @@
 
 ```javascript
 const arpit = {
-  role: "Full Stack Developer",
-  learning: ["MERN", "Next.js", "System Design"],
-  interests: ["Web Development", "AI"],
+  role: "Developer",
   portfolio: "https://arpittak.netlify.app/",
-  status: "Open to Opportunities 🚀"
+  status: "Open to Opportunities"
 };
 ```
 
