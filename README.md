@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Arpit Tak</h1>
 
 <p align="center">
-  Full Stack Developer • MERN Learner • AI Enthusiast
+  AI Full Stack Developer
 </p>
 
 <p align="center">
