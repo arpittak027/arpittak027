@@ -28,7 +28,8 @@ const arpit = {
 ```
 
 ## Tech Stack
+## Tech Stack
 
-<<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,mysql,python,git,github,langchain,webflow" />
-</p>
+## Tech Stack
+
+<p align="center"><img src="https://skillicons.dev/icons?i=html" /><img src="https://skillicons.dev/icons?i=css" /><img src="https://skillicons.dev/icons?i=js" /><img src="https://skillicons.dev/icons?i=react" /><img src="https://skillicons.dev/icons?i=nextjs" /><img src="https://skillicons.dev/icons?i=nodejs" /><img src="https://skillicons.dev/icons?i=express" /><img src="https://skillicons.dev/icons?i=mongodb" /><img src="https://skillicons.dev/icons?i=mysql" /><img src="https://skillicons.dev/icons?i=python" /><img src="https://skillicons.dev/icons?i=git" /><img src="https://skillicons.dev/icons?i=github" /><img src="https://skillicons.dev/icons?i=langchain" /><img src="https://cdn.simpleicons.org/webflow/000000" width="48" height="48" alt="Webflow" /></p>
