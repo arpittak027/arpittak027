@@ -43,6 +43,5 @@ const arpit = {
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
   <img src="https://skillicons.dev/icons?i=langchain" />
-  <img src="https://cdn.simpleicons.org/webflow/146EF5" width="48" height="48" alt="Webflow" />
 
 </p>
