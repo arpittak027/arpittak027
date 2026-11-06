@@ -66,7 +66,11 @@ An agentic collaborative workspace where humans and AI agents build together in 
     <img src="https://img.shields.io/badge/Explore_Outpost-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Outpost" />
   </a>
 </p>
-
+<p align="center">
+  <a href="https://hub.xerj.org/contributors/arpittak027">
+    <img src="https://hub.xerj.org/contributors/arpittak027/badge.svg" alt="XERJ Corpus Hub Contributor" />
+  </a>
+</p>
 ---
 
 ## Connect With Me
